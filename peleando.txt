@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Acá estamos generando problemas!!"
+        android:text="Acá estamos generando problemas!!!!!"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="183dp" />
 
@@ -19,7 +19,7 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="y es asi"
+        android:text="y es asi!!!"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="400dp" />
 </android.support.constraint.ConstraintLayout>
